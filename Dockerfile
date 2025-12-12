@@ -1,0 +1,1 @@
+FROM postgres:17.7-alpine@sha256:7cd12b4b4bf00307d4ab00e98622290e589e5de767cb55a48b1cf0e71770ae24
