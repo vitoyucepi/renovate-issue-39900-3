@@ -3,5 +3,5 @@
   "extends": [
     "config:recommended"
   ],
-  "minimumReleaseAgeBehavior": "timestamp-optional"
+  "minimumReleaseAgeBehaviour": "timestamp-optional"
 }
